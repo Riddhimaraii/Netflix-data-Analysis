@@ -98,36 +98,25 @@ Open and run analyse.ipynb to view all analysis steps and visualizations.
 
 This analysis highlights patterns such as:
 
-Content distribution across different genres
-
-Trends in release volume over the years
-
-Rating comparisons across titles
-
-Genre-specific popularity
-
-Seasonal or year-wise content growth
+•Content distribution across different genres
+•Trends in release volume over the years
+•Rating comparisons across titles
+•Genre-specific popularity
+•Seasonal or year-wise content growth
 
 💡 Future Scope & Enhancements
 
 You can further enhance this project by:
 
-Adding predictive modeling (e.g., popularity prediction)
-
-Interactive dashboards using Plotly or Dash
-
-Time-series analysis for trend forecasting
-
-Detailed country-based analysis
+•Adding predictive modeling (e.g., popularity prediction)
+•Interactive dashboards using Plotly or Dash
+•Time-series analysis for trend forecasting
+•Detailed country-based analysis
 
 ⭐ Skills Demonstrated
 
-Data preprocessing & cleaning
-
-Exploratory data analysis
-
-Python programming
-
-Data visualization
-
-Insight extraction & storytelling
+• Data preprocessing & cleaning
+•Exploratory data analysis
+•Python programming
+•Data visualization
+•Insight extraction & storytelling
