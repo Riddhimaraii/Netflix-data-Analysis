@@ -72,7 +72,7 @@ The analysis leveraged SQL concepts including:
 
 ### 🔹 Tools
 - SQL
-- Python (if used)
+- Python 
 - Jupyter Notebook
 - Pandas
 - Matplotlib / Seaborn
